@@ -51,3 +51,8 @@ Admins can manage cars, bookings, and user data. Payments can be made partially 
 - Return a car
 - View rental history
 - Admin users can log in with predefined credentials to manage cars and bookings
+
+## Database Design
+
+- The ERD diagram can be found here docs/ERD.pdf
+- The ERD diagram can be found here docs/UML_Class_Diagram.pdf
